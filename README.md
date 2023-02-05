@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nathan Nguyen, a highly skilled Front-end Developer that have a understanding of the Responsive Web Design.
-### Languages I speak
+My name is Nhật Anh, but you can call me Nathan. 
+I'm a highly skilled Front-end Developer that have a understanding of the Responsive Web Design.
+### Languages I speak:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-46a2f1?style=flat-square&logo=css3&logoColor=white" />
@@ -35,6 +36,9 @@ I'm Nathan Nguyen, a highly skilled Front-end Developer that have a understandin
   -->
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <!--
+  <img alt="figma" src="https://img.shields.io/badge/-Figma-454545?style=flat-square&logo=figma&logoColor=white" />
+  -->
 </p>
 
 ### Projects
