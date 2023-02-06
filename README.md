@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Nhật Anh, but you can call me Nathan. 
-I'm a highly skilled Front-end Developer that have a understanding of the Responsive Web Design.
+I'm an enthusiastic Product Designer and a highly skilled Front-end Developer that have a understanding of the Responsive Web Design.
 ### Languages I speak:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
