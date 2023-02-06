@@ -44,6 +44,7 @@ I'm an enthusiastic Product Designer and a highly skilled Front-end Developer th
 ### Projects
 <p>
   <a href="https://github.com/nateng98/Beautify-Github-Profile">Beautify Github Profile</a>
+  <br>
   <a href="https://github.com/nateng98/CV-Generator">CV Generator</a>
 </p>
 
