@@ -43,6 +43,6 @@ I'm a highly skilled Front-end Developer that have a understanding of the Respon
 
 ### Projects
 <p>
-  <a href="https://github.com/nateng98/Beautify-Github-README">Beautify Github README</a>
+  <a href="https://github.com/nateng98/Beautify-Github-README">Beautify Github Profile</a>
 </p>
 
