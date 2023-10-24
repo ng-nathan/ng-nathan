@@ -22,7 +22,7 @@ I'm an enthusiastic and motivated undergraduate Computer Science student coming 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-46a2f1?style=flat-square&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-F9A03C?style=flat-square&logo=c++t&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-46a2f1?style=flat-square&logo=css3&logoColor=white" />
@@ -39,6 +39,7 @@ I'm an enthusiastic and motivated undergraduate Computer Science student coming 
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+
   --> 
 </p>
 
