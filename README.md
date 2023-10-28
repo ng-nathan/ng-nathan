@@ -43,7 +43,7 @@ I'm an enthusiastic and motivated undergraduate Computer Science student coming 
 <p>
   <a href="https://github.com/nateng98/Files-Organizer">Files Organizer</a>
   <br>
-  <a href="https://github.com/nateng98/Beautify-Github-Profile">Beautify Github Profile</a> 
+  <a href="https://github.com/nateng98/Easy-Github-Profile">Easy Github Profile</a> 
   <br>
   <a href="https://github.com/nateng98/CV-Generator">CV Generator</a>
 </p>
