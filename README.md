@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Nhật Anh, but you can call me Nathan. 
+My name is Nathan. 
 I'm an enthusiastic and motivated undergraduate Computer Science student coming to 3rd year and eagering to broaden my programming language proficiency. Currently, I'm focusing on front-end development, mastering languages like HTML, CSS, and JavaScript. Soon, I'll transition to back-end development, delving into languages like Python along with frameworks like Django, React or Vue. My ultimate aim is to become a full-stack developer, adept at both front-end and back-end technologies. This versatility empowers me to create comprehensive, functional web applications independently.
 
 ### Languages I speak:
@@ -27,7 +27,8 @@ I'm an enthusiastic and motivated undergraduate Computer Science student coming 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-46a2f1?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F9A03C?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt
+="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   
 </p>
 
