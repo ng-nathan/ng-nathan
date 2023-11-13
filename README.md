@@ -46,7 +46,7 @@ I'm an enthusiastic and motivated undergraduate Computer Science student coming 
   <br>
   <a href="https://github.com/nateng98/Files-Organizer">Files Organizer</a>
   <br>
-  <a href="https://github.com/nateng98/Easy-Github-Profile">Easy Github Profile</a> 
+  <a href="https://github.com/nateng98/VoxCommand">VoxCommand</a> 
 </p>
 
 ### Connect with me
