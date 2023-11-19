@@ -36,8 +36,10 @@ I'm an enthusiastic and motivated undergraduate Computer Science student coming 
 
 <p>
   <img alt="figma" src="https://img.shields.io/badge/-Figma-454545?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
 ### Connect with me
