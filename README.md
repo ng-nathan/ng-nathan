@@ -40,15 +40,6 @@ I'm an enthusiastic and motivated undergraduate Computer Science student coming 
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
 </p>
 
-### Projects
-<p>
-  <a href="https://github.com/nateng98/CV-Generator">CV Generator</a>
-  <br>
-  <a href="https://github.com/nateng98/Files-Organizer">Files Organizer</a>
-  <br>
-  <a href="https://github.com/nateng98/VoxCommand">VoxCommand</a> 
-</p>
-
 ### Connect with me
 <p>
   <a href="https://www.linkedin.com/in/nathaniel-nguyen-2176301ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
