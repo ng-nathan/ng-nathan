@@ -27,8 +27,7 @@ I'm an enthusiastic and motivated undergraduate Computer Science student coming 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-46a2f1?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F9A03C?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt
-="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   
 </p>
 
@@ -43,7 +42,7 @@ I'm an enthusiastic and motivated undergraduate Computer Science student coming 
 </p>
 
 ### Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/nathaniel-nguyen-2176301ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+
+<a href="https://www.linkedin.com/in/nathaniel-nguyen-2176301ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
