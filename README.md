@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Nathan. 
-👋 Hi there! I’m a 4th-year Computer Science student with a passion for software development. I'm diving deep into both front-end and back-end technologies, aiming to become a versatile and proficient software developer. My interests include developing applications for mobile, Windows, and web platforms. I'm excited to contribute to open-source projects, learn new skills, and build innovative applications. Let's connect and create something amazing together! 🚀
+I’m a 4th-year Computer Science student with a passion for software development. I'm diving deep into both front-end and back-end technologies, aiming to become a versatile and proficient software developer. My interests include developing applications for mobile, Windows, and web platforms. I'm excited to contribute to open-source projects, learn new skills, and build innovative applications. Let's connect and create something amazing together! 🚀
 
 ### Languages I speak:
 <p>
