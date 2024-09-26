@@ -39,6 +39,7 @@ I’m a 4th-year Computer Science student with a passion for software developmen
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-a6120d?style=flat-square&logo=angular&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-1338be?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ### Connect with me
