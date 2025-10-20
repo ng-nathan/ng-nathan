@@ -31,6 +31,7 @@ I’m a 4th-year Computer Science student with a passion for software developmen
   <img alt="MSSQL" width="50px" height="50px" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" />
   <img alt="mongoDB" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" /> -->
 </div>
+
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,dotnet,nodejs,ts,java,py,swift)](https://skillicons.dev)
 
 ### Tools I use:
@@ -41,6 +42,7 @@ I’m a 4th-year Computer Science student with a passion for software developmen
   <img alt="Nginx" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" />
   <img alt="Azure" width="50px" height="50px" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" /> -->
 </div>
+
 [![My Skills](https://skillicons.dev/icons?i=git,docker,jenkins,githubactions,nginx)](https://skillicons.dev)
 
 ### Connect with me
